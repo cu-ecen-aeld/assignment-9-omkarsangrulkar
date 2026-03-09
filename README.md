@@ -4,4 +4,4 @@ This repository contains assignment starter code for buildroot based assignments
 
 It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
 
-I have used LLM: https://chatgpt.com/share/698ca023-9c20-8013-b0af-87cbf1a9252a
+I have used LLM: https://claude.ai/share/90f63b00-3a47-4ec3-b815-db1a20d2e398
